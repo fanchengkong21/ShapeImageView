@@ -8,3 +8,4 @@
   **app:round_radius="20dp", app:shape_mode="round_rect"**
 
 ----------
+图片一定是正方形图片,否则没有效果
